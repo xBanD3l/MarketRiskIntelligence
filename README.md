@@ -102,4 +102,4 @@ streamlit run app.py
 This project is for informational and educational purposes only. It does not constitute financial advice. AI-generated assessments should be verified against official financial filings.
 
 ---
-*Created by [Your Name] - [Your LinkedIn/Portfolio Link]*
+*Created by Aviv Bandel - [Aviv Bandel](https://www.linkedin.com/in/aviv-bandel-617b742b7/)*
